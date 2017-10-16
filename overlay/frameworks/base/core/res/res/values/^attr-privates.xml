@@ -18,5 +18,5 @@
     <attr name="loadingLayout" format="reference" />
     <attr name="rightSlideThreshold" format="dimension" />
     <attr name="slideViewLayout" format="reference" />
-    <attr name="editbarLayout" format="reference" />
+    <!-- <attr name="editbarLayout" format="reference" /> -->
 </resources>

@@ -15,7 +15,7 @@
         <item name="category">leftSlideShowItem|longPressEditMode|rightSlide</item>
         <item name="slideViewLayout">@layout/slide_view_merge_light</item>
         <item name="loadingLayout">@layout/listview_x_loading</item>
-        <item name="editbarLayout">@layout/listview_x_edit_bar</item>
+        <!-- <item name="editbarLayout">@layout/listview_x_edit_bar</item> -->
         <item name="checkValidRegionWidth">@dimen/listview_x_check_valid_region_width</item>
         <item name="leftSlideThreshold">@dimen/listview_x_left_slide_threshold</item>
         <item name="rightSlideThreshold">@dimen/listview_x_right_slide_threshold</item>
